@@ -1,0 +1,20 @@
+body
+{
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.one:hover 
+{
+    background-color: darkgreen;
+}
+.two:hover 
+{
+    background-color: darkgray;
+}
+.three:hover 
+{
+    background-color: darkred;
+}
